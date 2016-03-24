@@ -2,6 +2,8 @@
 
 ## Дано: дамп lenta.ru (10k документов)
 
+Документы доступны по адресу: https://cloud.mail.ru/public/FnMq/qCNif6bFG/dataset
+
 Для чтения документов используем docreader.py
 
 Используем поля .url и .text
