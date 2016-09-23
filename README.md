@@ -106,4 +106,4 @@ https://lenta.ru/photo/2015/08/30/medput/
 
 ## Вопросы?
 
-Обсуждаем совместно в топике https://sphere.mail.ru/blog/topic/1445/
+Обсуждаем совместно в топике https://sphere.mail.ru/blog/topic/1672/
