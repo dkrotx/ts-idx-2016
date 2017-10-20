@@ -86,6 +86,7 @@ URL2
 https://lenta.ru/news/2015/08/30/putin/  
 https://lenta.ru/photo/2015/08/30/medput/
 
+Внимание: выводимые url-ы должны быть в пордке возрастания docid!
 
 ## Куда отправлять код
 
